@@ -1,50 +1,35 @@
-# 👋 Hi, I'm Soumya Hedaoo  
-**MERN Stack Developer | DSA & AI Enthusiast**
-
-Crafting scalable web apps and exploring the intersection of code, data, and intelligence.
-
 ### 🧠 About Me  
-💻 Passionate full-stack developer focused on building robust backends and seamless user experiences.  
-⚙️ I enjoy creating clean APIs, optimizing performance, and solving challenging algorithmic problems.  
-🌱 Currently learning **AWS** and **AI tools** to integrate intelligence into web solutions.  
+💻 Full-stack developer focused on building scalable and efficient web applications using the **MERN** stack.  
+⚙️ Currently working on full-stack projects, strengthening **DSA** and problem-solving skills, and preparing for **Oracle** and **AWS certifications**.  
+🌱 Learning **cloud deployment**, **AI integrations**, and advanced **backend design patterns** to build intelligent, data-driven systems.  
+💡 Deeply interested in **AI & Machine Learning**, **Blockchain**, **Cloud Computing (AWS / OCI)**, and **Data Engineering** — where innovation meets impact.  
 📍 Based in India  
 
-### ⚙️ Tech Stack  
+---
+
+### 🛠️ My Arsenal  
 **Languages:** C++, JavaScript  
 **Frontend:** React.js, HTML, CSS  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, MySQL  
-**Tools & Platforms:** Git, Vercel, Postman, Linux  
+**Tools & Platforms:** Git, Postman, Vercel, Linux  
 **Learning:** AWS, OCI AI Foundations, Data Science  
 
-### 🚀 Currently Exploring  
-- Scalable backend architectures  
-- RESTful API design & microservices  
-- AI-powered integrations for real-world apps  
-- Advanced DSA and problem-solving  
+---
 
-### 🔗 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyahedaoo)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/soumyahedaoo)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumyahedaoo?tab=repositories)
+### 📬 Connect With Me  
+📧 **Email:** [soumyahedaoo@gmail.com](mailto:soumyahedaoo77@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/soumyahedaoo](https://www.linkedin.com/in/soumya-hedaoo-973a2422a/)  
+💻 **LeetCode:** [leetcode.com/soumyahedaoo](https://leetcode.com/u/Variable07/)  
+🏆 **Codeforces:** [codeforces.com/profile/soumyahedaoo](https://codeforces.com/profile/Soumya07)  
+🔥 **CodeChef:** [codechef.com/users/soumyahedaoo](https://www.codechef.com/users/variable_07)  
+📂 **GitHub:** [github.com/soumyahedaoo](https://github.com/Variable07)  
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyahedaoo&show_icons=true&theme=github_dark&hide_border=true" alt="Soumya Hedaoo's GitHub stats" />
-</p>
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=soumyahedaoo&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+### 📄 Resume  
+📎 [View My Resume (Google Drive)](https://drive.google.com/) *(replace with your actual link)*  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyahedaoo&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumyahedaoo&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <em>“Code is not just logic — it’s design, discipline, and a reflection of how you think.”</em>
+ <em>“I don’t just write code — I negotiate with the compiler until it agrees with me.”</em>
 </p>
