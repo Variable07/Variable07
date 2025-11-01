@@ -5,8 +5,6 @@
 💡 Deeply interested in **AI & Machine Learning**, **Blockchain**, **Cloud Computing (AWS / OCI)**, and **Data Engineering** — where innovation meets impact.  
 📍 Based in India  
 
----
-
 ### 🛠️ My Arsenal  
 **Languages:** C++, JavaScript  
 **Frontend:** React.js, HTML, CSS  
@@ -14,8 +12,6 @@
 **Databases:** MongoDB, MySQL  
 **Tools & Platforms:** Git, Postman, Vercel, Linux  
 **Learning:** AWS, OCI AI Foundations, Data Science  
-
----
 
 ### 📬 Connect With Me  
 📧 **Email:** [soumyahedaoo@gmail.com](mailto:soumyahedaoo77@gmail.com)  
@@ -25,11 +21,9 @@
 🔥 **CodeChef:** [codechef.com/users/soumyahedaoo](https://www.codechef.com/users/variable_07)  
 📂 **GitHub:** [github.com/soumyahedaoo](https://github.com/Variable07)  
 
----
-
 ### 📄 Resume  
 📎 [View My Resume (Google Drive)](https://drive.google.com/) *(replace with your actual link)*  
-
+---
 <p align="center">
  <em>“I don’t just write code — I negotiate with the compiler until it agrees with me.”</em>
 </p>
