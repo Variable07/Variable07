@@ -7,7 +7,7 @@
   Crafting scalable web apps and exploring the intersection of code, data, and intelligence.
 </p>
 
----
+
 
 ### 🧠 About Me  
 💻 Passionate full-stack developer focused on building robust backends and seamless user experiences.  
@@ -15,7 +15,7 @@
 🌱 Currently learning **AWS** and **AI tools** to integrate intelligence into web solutions.  
 📍 Based in India  
 
----
+
 
 ### ⚙️ Tech Stack  
 
@@ -26,7 +26,6 @@
 **Tools & Platforms:** Git, Vercel, Postman, Linux  
 **Learning:** AWS, OCI AI Foundations, Data Science  
 
----
 
 ### 🚀 Currently Exploring  
 - Scalable backend architectures  
@@ -34,7 +33,6 @@
 - AI-powered integrations for real-world apps  
 - Advanced DSA and problem-solving  
 
----
 
 ### 🔗 Connect With Me  
 <p align="center">
@@ -49,7 +47,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <em>“Code is not just logic — it’s design, discipline, and a reflection of how you think.”</em>
