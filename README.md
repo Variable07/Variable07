@@ -4,6 +4,7 @@
 🌱 Learning **cloud deployment**, **AI integrations**, and advanced **backend design patterns** to build intelligent, data-driven systems.  
 💡 Deeply interested in **AI & Machine Learning**, **Blockchain**, **Cloud Computing (AWS / OCI)**, and **Data Engineering** — where innovation meets impact.  
 📍 Based in India  
+🔗 **For a deeper look into my work and journey:** [📄 Resume(google drive link) ](https://drive.google.com/file/d/1QNNXgJRpr34gUexTqzxeC_ffuIm0FT_j/view?usp=sharing)
 
 ### 🛠️ My Arsenal  
 **Languages:** C++, JavaScript  
@@ -21,9 +22,6 @@
 🔥 **CodeChef:** [codechef.com/users/soumyahedaoo](https://www.codechef.com/users/variable_07)  
 📂 **GitHub:** [github.com/soumyahedaoo](https://github.com/Variable07)  
 
-### 📄 Resume  
-📎 [View My Resume (Google Drive)](https://drive.google.com/) *(replace with your actual link)*  
----
 <p align="center">
  <em>“I don’t just write code — I negotiate with the compiler until it agrees with me.”</em>
 </p>
