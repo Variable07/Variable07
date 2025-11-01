@@ -4,41 +4,39 @@
 
 <p align="center">
   <strong>MERN Stack Developer | DSA & AI Enthusiast</strong><br>
-  Building scalable web apps, exploring data & intelligent systems.
+  Crafting scalable web apps and exploring the intersection of code, data, and intelligence.
 </p>
 
 ---
 
 ### 🧠 About Me  
-💻 Passionate full-stack developer with a focus on backend and data-driven systems.  
-⚙️ I enjoy designing clean APIs, optimizing performance, and solving algorithmic problems.  
-🌱 Currently learning AWS and AI tools to bridge software with intelligent automation.  
+💻 Passionate full-stack developer focused on building robust backends and seamless user experiences.  
+⚙️ I enjoy creating clean APIs, optimizing performance, and solving challenging algorithmic problems.  
+🌱 Currently learning **AWS** and **AI tools** to integrate intelligence into web solutions.  
 📍 Based in India  
 
 ---
 
-### 🧩 Tech Stack
+### ⚙️ Tech Stack  
 
-| Category | Tools & Technologies |
-|-----------|----------------------|
-| **Languages** | C++, JavaScript |
-| **Frontend** | React.js, HTML5, CSS3 |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB, MySQL |
-| **Tools / Platforms** | Git, Vercel, Postman, Linux |
-| **Learning** | AWS, OCI AI Foundations, Data Science Concepts |
+**Languages:** C++, JavaScript  
+**Frontend:** React.js, HTML, CSS  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, MySQL  
+**Tools & Platforms:** Git, Vercel, Postman, Linux  
+**Learning:** AWS, OCI AI Foundations, Data Science  
 
 ---
 
-### 🚀 Currently Exploring
+### 🚀 Currently Exploring  
 - Scalable backend architectures  
 - RESTful API design & microservices  
 - AI-powered integrations for real-world apps  
-- Advanced DSA and problem-solving strategies  
+- Advanced DSA and problem-solving  
 
 ---
 
-### 🔗 Connect With Me
+### 🔗 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/soumyahedaoo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
