@@ -1,77 +1,58 @@
-# 👋 Hi, I'm Soumya Hedaoo  
+<!-- Soumya Hedaoo | GitHub Profile README -->
 
-🎯 **Full-Stack Developer | DSA & AI Enthusiast**  
-💡 I love building scalable systems, solving complex problems, and exploring intelligent solutions through AI.  
+<h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Soumya Hedaoo</span></h1>
 
----
-
-## 🧭 About Me  
-- 🎓 Computer Science Graduate (8.15 CGPA)  
-- 💻 Passionate about **Backend, AI, and System Design**  
-- 🧠 Strong in **DSA** with consistent practice on LeetCode & CodeChef  
-- 🚀 Currently enhancing skills in **Cloud (AWS & Oracle AI)**  
-- ⚡ Love for clean, efficient, and production-ready code  
+<p align="center">
+  <strong>MERN Stack Developer | DSA & AI Enthusiast</strong><br>
+  Building scalable web apps, exploring data & intelligent systems.
+</p>
 
 ---
 
-## 💻 Tech Stack  
-
-**Languages:**  
-`C++` · `JavaScript` · `SQL`  
-
-**Frontend:**  
-`React.js` · `HTML` · `CSS`  
-
-**Backend:**  
-`Node.js` · `Express.js`  
-
-**Databases:**  
-`PostgreSQL` · `MongoDB`  
-
-**Tools & Cloud:**  
-`Git` · `GitHub` · `AWS` · `Oracle Cloud`  
+### 🧠 About Me  
+💻 Passionate full-stack developer with a focus on backend and data-driven systems.  
+⚙️ I enjoy designing clean APIs, optimizing performance, and solving algorithmic problems.  
+🌱 Currently learning AWS and AI tools to bridge software with intelligent automation.  
+📍 Based in India  
 
 ---
 
-## 🧩 Competitive Programming  
+### 🧩 Tech Stack
 
-| Platform | Rating | Highlights |
-|-----------|---------|-------------|
-| 🧠 **LeetCode** | 1600+ | Top 15% globally |
-| ⚡ **CodeChef** | 3★ (1700+) | Regular participant in long & cook-off contests |
-
----
-
-## 📚 Currently Learning  
-- 🔥 Advanced **DSA** (Striver’s A2Z)  
-- ☁️ **AWS Cloud Practitioner** & **Oracle AI Track**  
-- 🧩 Exploring **AI integrations** with full-stack applications  
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Languages** | C++, JavaScript |
+| **Frontend** | React.js, HTML5, CSS3 |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB, MySQL |
+| **Tools / Platforms** | Git, Vercel, Postman, Linux |
+| **Learning** | AWS, OCI AI Foundations, Data Science Concepts |
 
 ---
 
-## 🧠 Featured Projects  
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| [**AIverse**](#) | One-stop AI super app integrating multiple AI tools | React, Node.js, OpenAI API |
-| [**TaskTracker API**](#) | RESTful backend for task management with JWT Auth | Node.js, Express, PostgreSQL |
-| [**Portfolio Site**](#) | Personal developer portfolio showcasing my work | React, TailwindCSS |
+### 🚀 Currently Exploring
+- Scalable backend architectures  
+- RESTful API design & microservices  
+- AI-powered integrations for real-world apps  
+- Advanced DSA and problem-solving strategies  
 
 ---
 
-## 📈 GitHub Stats  
-
-![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoumyaHedaoo&show_icons=true&theme=default&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaHedaoo&layout=compact&theme=default&hide_border=true)
+### 🔗 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/soumyahedaoo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/soumyahedaoo" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/soumyahedaoo?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-## 🤝 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/soumyahedaoo)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyahedaoo@gmail.com)
-
----
-
-### 💬 **Short Bio (for GitHub Profile Section)**  
-> **Full-Stack Developer | DSA & AI Enthusiast | C++ • JS • SQL • Node.js • React | 3★ CodeChef (1700+) | 1600+ LeetCode**
+<p align="center">
+  <em>“Code is not just logic — it’s design, discipline, and a reflection of how you think.”</em>
+</p>
