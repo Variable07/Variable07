@@ -4,7 +4,7 @@
 🌱 Learning **cloud deployment**, **AI integrations**, and advanced **backend design patterns** to build intelligent, data-driven systems.  
 💡 Deeply interested in **AI & Machine Learning**, **Blockchain**, **Cloud Computing (AWS / OCI)**, and **Data Engineering** — where innovation meets impact.  
 📍 Based in India  
-🔗 **For a deeper look into my work and journey:** [📄 Resume(google drive link) ](https://drive.google.com/file/d/1QNNXgJRpr34gUexTqzxeC_ffuIm0FT_j/view?usp=sharing)
+🔗 **For a deeper look into my work and journey:** [📄 Resume(google drive link) ](https://drive.google.com/file/d/17vHtAhRlr6d-u3xaZejt34knXaI4b4D1/view?usp=sharing)
 
 ### 🛠️ My Arsenal  
 **Languages:** C++, JavaScript  
